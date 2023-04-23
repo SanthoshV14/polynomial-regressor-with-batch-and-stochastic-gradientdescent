@@ -1,0 +1,1 @@
+# polynomial-regressor-with-batch-and-stochastic-gradientdescent
